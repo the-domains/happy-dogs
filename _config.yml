@@ -6,9 +6,9 @@ color:
   saturation: 0.13912443071603775
   rhythmicContrast: 0.4143596184439957
   brandColors:
-    - '#534228'
-    - '#7D9EC7'
-    - '#AD3D61'
-    - '#FCD2D3'
-    - '#EF8091'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: Happy Dogs
