@@ -1,4 +1,3 @@
-layout_spectrum: 0.49162595509551466
 typography_spectrum: 0.007480173138901591
 color:
   brandStrength: 0.9420847373548895
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.49162595509551466
 name: Happy Dogs
+title: The Heart of the Dog
 description: Enriching the Lives of Dogs and the People Who Love Them
