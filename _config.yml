@@ -1,0 +1,14 @@
+layout_spectrum: 0.49162595509551466
+typography_spectrum: 0.007480173138901591
+color:
+  brandStrength: 0.9420847373548895
+  lightness: 0.6618430849630386
+  saturation: 0.13912443071603775
+  rhythmicContrast: 0.4143596184439957
+  brandColors:
+    - '#534228'
+    - '#7D9EC7'
+    - '#AD3D61'
+    - '#FCD2D3'
+    - '#EF8091'
+name: Happy Dogs
